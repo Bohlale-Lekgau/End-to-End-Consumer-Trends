@@ -21,5 +21,5 @@ Successful implementation reduces lost revenue from incomplete transactions and 
  <li>PostgreSQL</li>
  <li>PowerBI</li>
 </ul>
-<h2>4. Key Insights</h2>
-<h2>5. Business Recommendations</h2>
+/*<h2>4. Key Insights</h2>
+<h2>5. Business Recommendations</h2>*/
