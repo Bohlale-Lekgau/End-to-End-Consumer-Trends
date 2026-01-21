@@ -15,7 +15,7 @@ Successful implementation reduces lost revenue from incomplete transactions and 
    </ul>
    to enable targeted interventions like personalized recommendations or retargeting campaigns
 
-<h2>3. Tools and Techniques used</h2>
+<h2>3. Tools used</h2>
 <ul>
  <li>Python</li>
  <li>Jupyter Notebook</li>
