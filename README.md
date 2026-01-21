@@ -7,14 +7,19 @@ Successful implementation reduces lost revenue from incomplete transactions and 
 
  
 <h2>2. Business Objective</h2></br>
-   Understanding underlying consumer behavior </br>
+   Understanding underlying consumer behavior: </br>
    <ul>
     <li>browsing habits</li>
     <li>session duration</li>
     <li>demographic influence</li>
-   </ul></br>
+   </ul>
    to enable targeted interventions like personalized recommendations or retargeting campaigns
 
 <h2>3. Tools and Techniques used</h2>
+<ul>
+ <li>Python</li>
+ <li>PostgreSQL</li>
+ <li>PowerBI</li>
+</ul>
 <h2>4. Key Insights</h2>
 <h2>5. Business Recommendations</h2>
