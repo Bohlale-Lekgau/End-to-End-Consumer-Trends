@@ -18,6 +18,7 @@ Successful implementation reduces lost revenue from incomplete transactions and 
 <h2>3. Tools and Techniques used</h2>
 <ul>
  <li>Python</li>
+ <li>Jupyter Notebook</li>
  <li>PostgreSQL</li>
  <li>PowerBI</li>
 </ul>
