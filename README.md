@@ -7,7 +7,13 @@ Successful implementation reduces lost revenue from incomplete transactions and 
 
  
 <h2>2. Business Objective</h2></br>
-   Understanding underlying consumer behavior such as browsing habits, session duration, and demographic influence to enable targeted interventions like personalized recommendations or retargeting campaigns
+   Understanding underlying consumer behavior </br>
+   <ul>
+    <li>browsing habits</li>
+    <li>session duration</li>
+    <li>demographic influence</li>
+   </ul></br>
+   to enable targeted interventions like personalized recommendations or retargeting campaigns
 
 <h2>3. Tools and Techniques used</h2>
 <h2>4. Key Insights</h2>
